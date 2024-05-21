@@ -6574,7 +6574,8 @@ HEAD
       flex-wrap: wrap;
     }
   }
-  @media screen and (max-width: 450px) {
+  @media screen and (max-width: 450px)
+ {
     .stack {
       display: none;
     }
