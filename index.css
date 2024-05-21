@@ -3209,7 +3209,6 @@ HEAD
   .rectangle-group {
     padding-top: var(--padding-54xl);
     padding-bottom: var(--padding-103xl);
->>>>>>> 5637cfd318a441c4d50b052c307f0caf46a10a5d
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -6681,3 +6680,4 @@ HEAD
       gap: var(--gap-5xl);
     }
   }
+}
