@@ -204,8 +204,8 @@
           alt=""
           src="./public/halftorus-1@2x.png"
         />
-      </section>
-      <section class="desktop-inner">
+      <!-- </section>
+      <section class="desktop-inner"> -->
         <div class="frame-container">
           <div class="icon-whatsapp-wrapper">
             <img
@@ -286,8 +286,8 @@
             </div>
           </div>
         </div>
-      </section>
-      <section class="desktop-child">
+      <!-- </section>
+      <section class="desktop-child"> -->
         <div class="frame-parent2">
           <div class="frame-wrapper1">  
             <div class="frame-parent3">
