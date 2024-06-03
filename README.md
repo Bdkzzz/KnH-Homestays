@@ -11,30 +11,30 @@
 
   <!-- 
   <!DOCTYPE html>
-<html>
+  <html>
   <head>
     <meta charset="utf-8" />
     <!-- <meta name="viewport" content="initial-scale=1, width=device-width" /> -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-    <meta property="og:image" content="public/thumbnail.png" />
+        <meta property="og:image" content="public/thumbnail.png" />
 
-    <link rel="icon" href="public/favicon.ico" />
-    <link rel="stylesheet" href="./global.css" />
-    <link rel="stylesheet" href="./index.css" />
-    <link
+        <link rel="icon" href="public/favicon.ico" />
+        <link rel="stylesheet" href="./global.css" />
+        <link rel="stylesheet" href="./index.css" />
+        <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
     />
-    <link
+      <!-- <link -->
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=DM Sans:wght@700&display=swap"
     />
-  </head>
+  <!-- </head>
   <body>
     <div class="desktop">
-      <header class="nav-bar-desktop">
+      <header class="nav-bar-desktop"> -->
         <div class="logo">
           <div class="logodefault">
             <div class="logodefault-child"></div>
@@ -58,8 +58,8 @@
             <div class="get-for-free">Book Now</div>
           </button>
         </div>
-      </header>
-      <section class="rectangle-parent">
+      <!-- </header>
+      <section class="rectangle-parent"> -->
         <div class="frame-child"></div>
         <div class="frame-parent">
           <div class="h1-parent">
@@ -93,8 +93,8 @@
             <img class="icons" loading="lazy" alt="" src="./public/icons.svg" />
           </div>
         </div>
-      </section>
-      <section class="product">
+      <!-- </section>
+      <section class="product"> -->
         <div class="rectangle-group">
           <div class="frame-item"></div>
           <div class="frame-wrapper">
