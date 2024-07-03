@@ -6681,3 +6681,36 @@ HEAD
     }
   }
 }
+
+#image-carousel {
+  width: 600px; /* Adjust width as needed */
+  overflow: hidden;
+  position: relative;
+}
+
+#image-carousel img {
+  width: 100%; /* Images fill the carousel width */
+  display: block;
+}
+
+#image-carousel button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: white;
+  font-size: 32px;
+  padding: 10px;
+}
+
+#prev-btn {
+  left: 10px;
+}
+
+#next-btn {
+  right: 10px;
+}
+
+

@@ -7290,4 +7290,35 @@ HEAD * {
     }
   }
 }
+
+#image-carousel {
+  width: 600px;
+  position: relative;
+  overflow: hidden;
+}
+
+#image-carousel img {
+  width: 100%;
+  display: block;
+}
+
+#image-carousel button {
+  cursor: pointer;
+  color: #fff;
+  background-color: #0000;
+  border: none;
+  padding: 10px;
+  font-size: 32px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#prev-btn {
+  left: 10px;
+}
+
+#next-btn {
+  right: 10px;
+}
 /*# sourceMappingURL=index.9e4c6fd2.css.map */
